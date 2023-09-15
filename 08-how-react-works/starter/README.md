@@ -4,6 +4,8 @@ The commit phase is performed by yet another library called ReactDOM
 
 React does not touch the DOM, React only renders. It doesn’t know where the render result will go
 
+create a sleeping habit and waking up early and learning react js
+
 React was designed to be used independently from the platform (“hosts”) where elements will actually be shown and therefore react can be used with many different so called “hosts”
 
 React is used with other hosts as well, for example we can build native mobile application for ios and android using React Native, we can build videos with react “Remotion”, we can create all kinds of documents like “word” , “pdf” , “figma designs” and many more → using so called “RENDERERS”
