@@ -12,3 +12,5 @@ React is used with other hosts as well, for example we can build native mobile a
 Renderer is actually a pretty terrible name because renderers do not render but they commit the result of render phase (this name comes from past, before react divided the render phase and commit phase)
 
 HOW DIFFING WORKS:
+
+learned about key prop (can be used to reset state of a component)
